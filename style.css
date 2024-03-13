@@ -1456,7 +1456,6 @@ ul {
 }
 
 .footer {
-
     position: relative;
     display: flex;
     align-items: center;
@@ -1464,10 +1463,11 @@ ul {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 75vw;
     width: 100%;
     margin: 0 auto;
     padding: 0 1rem;
+
 }
 
 form {
@@ -1523,7 +1523,7 @@ svg {
 }
 
 .c-2 {
-    margin-top: 3.5rem;
+    margin-top: 6rem;
 }
 
 .footer_copyright {
@@ -1554,7 +1554,7 @@ h4 {
 .btn-content {
     display: flex;
     align-items: center;
-    padding: 0px 3px;
+    padding: 0px 6px;
     text-decoration: none;
     font-family: "Poppins", sans-serif;
     font-size: 25px;
@@ -1648,8 +1648,6 @@ h4 {
         outline-offset: 0;
     }
 }
-
-
 
 .footer-inner {
     background: transparent !important;
